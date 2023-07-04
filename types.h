@@ -2,7 +2,7 @@
  *  types.h
  *
  *  Created by Alejandro Santiago on 12/09/20.
- *  aurelio.santiago@upalt.edu.mx
+ *  aurelio.santiago@uat.edu.mx
  *
  */
 #include <time.h>
